@@ -1,0 +1,63 @@
+/* Colortheme: Blue */
+body {
+	background-color: rgb(236, 223, 226);
+	color: rgb(60,60,60);
+}
+body.white {
+	background-color: rgb(255,255,255);
+}
+nav#top-nav ul li a:hover,
+input.searchbutton,
+footer,
+#logo h1 a span.boxed,
+nav#top-nav aside ul.menu li.current_page_item a, nav#top-nav aside ul.menu li a:hover, nav#top-nav aside.widget_categories h4:hover, nav#top-nav aside.widget_categories:hover h4,
+nav#top-nav aside.widget_categories:hover ul li a,
+nav#top-nav aside.widget_search input#searchsubmit:hover,
+.contentHead p,
+nav.pagination ul li span.current, nav.pagination ul li a.inactive:hover,
+nav.pagination ul li a.start:hover,
+nav.pagination ul li a.end:hover,
+a#showCommentsLink:hover,
+ul#commentlist li .comment-author,
+#commentform input#submit,
+#commentform input#submit:hover,
+nav#top-nav aside.widget_search input#searchsubmit {
+	background-color: rgb(74, 104, 199);
+}
+a,
+#logo h1 a span,
+nav#top-nav aside ul.menu li a, nav#top-nav aside.widget_categories h4,
+.videoPost a.heartLink, a.heartLink,
+a#showCommentsLink,
+#footerSidebar aside ul li a:hover {
+	color: rgb(74, 104, 199);
+}
+.postMeta,
+ul#commentlist li p{
+	background: rgb(221,221,221);
+}
+#logo h1 a span.boxed{
+	background: linear-gradient(rgb(108,132,209), rgb(74, 104, 199));
+}
+#footerSidebar aside ul li a,
+#footerSidebar aside.widget_search input#searchsubmit,
+.sortBy {
+	background-color: rgb(110,134,210);
+}
+nav#top-nav aside.widget_categories h4,
+nav#top-nav aside.widget_categories h4:hover, nav#top-nav aside.widget_categories:hover h4,
+nav#top-nav aside.widget_categories:hover ul,
+nav#top-nav aside.widget_search input#searchsubmit,
+.videoPost a.heartLink, a.heartLink,
+.videoPost div.thumbViews, div.thumbViews,
+nav.pagination ul li a.start,
+nav.pagination ul li a.end,
+a#showCommentsLink,
+a#showCommentsLink:hover,
+#mobile-nav,
+#footerSidebar aside.widget_search input#searchsubmit {
+	background-image: url(../images/sprite_blue.png);
+}
+nav.pagination ul li a.inactive, nav.pagination ul li a.start, nav.pagination ul li a.end{
+	background-color: rgb(110,134,210);
+}

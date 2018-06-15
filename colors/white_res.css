@@ -1,0 +1,10 @@
+@media (max-width: 880px) {
+	nav#top-nav aside.widget_categories.hover ul li a:hover,
+	#mobile-nav	{
+		background-color: rgb(52,52,52);
+	}
+	nav#top-nav aside.widget_categories ul li a,
+	nav#top-nav aside.widget_categories.hover ul li a, nav#top-nav aside.widget_categories:hover ul li a{
+		color: rgb(52,52,52);
+	}
+}
